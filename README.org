@@ -1,0 +1,6 @@
+# okexq
+- okexq: Quant for OKEX
+- 基于Okex交易所v1版本API的BTC-USD币本位合约的移动止盈止损策略
+- 需要在config文件中配置自己的access key和secret key
+- 此项目为刚接触量化时的demo，策略教初级，没有开仓策略，只有基于牛顿迭代法思想抽象的移动止盈止损策略，仅供交流学习，欢迎issue
+- create at 2018-09-28, upload at 2021-10-19 by antx
